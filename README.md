@@ -47,14 +47,6 @@ Portafolio personal con proyectos y tecnologías.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lalexdev&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Conecta conmigo
 
 - 💼 LinkedIn: https://linkedin.com  
